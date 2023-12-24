@@ -38,4 +38,10 @@
     <td><a href= "https://quera.org/problemset/3429">سوال</a></td>
     <td><a href = "https://github.com/Mehr-code/Quera-js-answers/blob/main/SRC/3429.js">جواب</a></td>
   </tr>
+  <tr>
+    <td>10230</td>
+    <td>مشق امشب باقر</td>
+    <td><a href = "https://quera.org/problemset/10230?tab=description">سوال</a></td>
+    <td><a href = "#">جواب</a></td>
+  </tr>
 </table>
