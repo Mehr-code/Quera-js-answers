@@ -36,6 +36,6 @@
     <td>3429</td>
     <td>یخدارچی</td>
     <td><a href= "https://quera.org/problemset/3429">سوال</a></td>
-    <td><a href = "#">جواب</a></td>
+    <td><a href = "https://github.com/Mehr-code/Quera-js-answers/blob/main/SRC/3429.js">جواب</a></td>
   </tr>
 </table>
