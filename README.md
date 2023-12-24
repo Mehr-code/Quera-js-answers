@@ -11,12 +11,8 @@
     <td>لینک جواب</td>
   </tr>
   <tr>
-    <td>
-      3537
-    </td>
-    <td>
-      سوال زرد
-    </td>
+    <td>3537</td>
+    <td>سوال زرد</td>
     <td><a href="https://quera.org/problemset/3537">سوال</a></td>
     <td><a href="https://github.com/Mehr-code/Quera-js-answers/blob/main/SRC/3537.js">جواب</a></td>
   </tr>
@@ -43,5 +39,11 @@
     <td>مشق امشب باقر</td>
     <td><a href = "https://quera.org/problemset/10230?tab=description">سوال</a></td>
     <td><a href = "https://github.com/Mehr-code/Quera-js-answers/blob/main/SRC/10230.js">جواب</a></td>
+  </tr>
+  <tr>
+    <td>280</td>
+    <td>اعداد فیثاغورثی</td>
+    <td><a href="https://quera.org/problemset/280?tab=description">سوال</a></td>
+    <td><a href="#">جواب</a></td>
   </tr>
 </table>
