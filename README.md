@@ -44,6 +44,6 @@
     <td>280</td>
     <td>اعداد فیثاغورثی</td>
     <td><a href="https://quera.org/problemset/280?tab=description">سوال</a></td>
-    <td><a href="#">جواب</a></td>
+    <td><a href="https://github.com/Mehr-code/Quera-js-answers/blob/main/SRC/280.js">جواب</a></td>
   </tr>
 </table>
