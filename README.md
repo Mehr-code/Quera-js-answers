@@ -26,4 +26,10 @@
     <td><a href = "https://quera.org/problemset/2885?tab=description">سوال</a></td>
     <td><a href = "https://github.com/Mehr-code/Quera-js-answers/blob/main/SRC/2885.js">جواب</a></td>
   </tr>
+  <tr>
+    <td>589</td>
+    <td>فاکتوریل</td>
+    <td><a href = "https://quera.org/problemset/589?tab=description">سوال</a></td>
+    <td><a href = "#">جواب</a></td>
+  </tr>
 </table>
