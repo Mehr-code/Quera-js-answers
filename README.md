@@ -18,6 +18,6 @@
       سوال زرد
     </td>
     <td><a href="https://quera.org/problemset/3537">سوال</a></td>
-    <td><a href="#">جواب</a></td>
+    <td><a href="https://github.com/Mehr-code/Quera-js-answers/tree/main/SRC">جواب</a></td>
   </tr>
 </table>
