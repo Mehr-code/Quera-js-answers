@@ -17,7 +17,7 @@
     <td>
       سوال زرد
     </td>
-    <td><a href="#">سوال</a></td>
+    <td><a href="https://quera.org/problemset/3537">سوال</a></td>
     <td><a href="#">جواب</a></td>
   </tr>
 </table>
