@@ -52,4 +52,11 @@
     <td><a href="https://quera.org/problemset/3539?tab=description">سوال</a></td>
     <td><a href="https://github.com/Mehr-code/Quera-js-answers/blob/main/SRC/3539.js">جواب</a></td>
   </tr>
+  <tr>
+    <td>3539</td>
+    <td>جدول ضرب گنده</td>
+    <td><a href="https://quera.org/problemset/3409?tab=description">سوال</a></td>
+    <td><a href="https://github.com/Mehr-code/Quera-js-answers/blob/main/SRC/3409.js">جواب</a></td>
+  </tr>
+  
 </table>
