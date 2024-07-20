@@ -19,13 +19,13 @@
   <tr>
     <td>2885</td>
     <td>یک سوال ساده</td>
-    <td><a href = "https://quera.org/problemset/2885?tab=description">سوال</a></td>
+    <td><a href = "https://quera.org/problemset/2885">سوال</a></td>
     <td><a href = "https://github.com/Mehr-code/Quera-js-answers/blob/main/SRC/2885.js">جواب</a></td>
   </tr>
   <tr>
     <td>589</td>
     <td>فاکتوریل</td>
-    <td><a href = "https://quera.org/problemset/589?tab=description">سوال</a></td>
+    <td><a href = "https://quera.org/problemset/589">سوال</a></td>
     <td><a href = "https://github.com/Mehr-code/Quera-js-answers/blob/main/SRC/589.js">جواب</a></td>
   </tr>
   <tr>
@@ -37,26 +37,32 @@
   <tr>
     <td>10230</td>
     <td>مشق امشب باقر</td>
-    <td><a href = "https://quera.org/problemset/10230?tab=description">سوال</a></td>
+    <td><a href = "https://quera.org/problemset/10230">سوال</a></td>
     <td><a href = "https://github.com/Mehr-code/Quera-js-answers/blob/main/SRC/10230.js">جواب</a></td>
   </tr>
   <tr>
     <td>280</td>
     <td>اعداد فیثاغورثی</td>
-    <td><a href="https://quera.org/problemset/280?tab=description">سوال</a></td>
+    <td><a href="https://quera.org/problemset/280">سوال</a></td>
     <td><a href="https://github.com/Mehr-code/Quera-js-answers/blob/main/SRC/280.js">جواب</a></td>
   </tr>
   <tr>
     <td>3539</td>
     <td>تک رقمی</td>
-    <td><a href="https://quera.org/problemset/3539?tab=description">سوال</a></td>
+    <td><a href="https://quera.org/problemset/3539">سوال</a></td>
     <td><a href="https://github.com/Mehr-code/Quera-js-answers/blob/main/SRC/3539.js">جواب</a></td>
   </tr>
   <tr>
     <td>3409</td>
     <td>جدول ضرب گنده</td>
-    <td><a href="https://quera.org/problemset/3409?tab=description">سوال</a></td>
+    <td><a href="https://quera.org/problemset/3409">سوال</a></td>
     <td><a href="https://github.com/Mehr-code/Quera-js-answers/blob/main/SRC/3409.js">جواب</a></td>
+  </tr>
+  <tr>
+    <td>10162</td>
+    <td>روز آزادی بیان در برره</td>
+    <td><a href="https://quera.org/problemset/10162">سوال</a></td>
+    <td><a href="https://github.com/Mehr-code/Quera-js-answers/blob/main/SRC/10162.js">جواب</a></td>
   </tr>
   
 </table>
