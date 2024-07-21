@@ -64,5 +64,11 @@
     <td><a href="https://quera.org/problemset/10162">سوال</a></td>
     <td><a href="https://github.com/Mehr-code/Quera-js-answers/blob/main/SRC/10162.js">جواب</a></td>
   </tr>
+  <tr>
+    <td>9774</td>
+    <td>عدد چاپ کن</td>
+    <td><a href="https://quera.org/problemset/9774">سوال</a></td>
+    <td><a href="https://github.com/Mehr-code/Quera-js-answers/blob/main/SRC/9774.js">جواب</a></td>
+  </tr>
   
 </table>
