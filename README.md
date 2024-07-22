@@ -70,5 +70,11 @@
     <td><a href="https://quera.org/problemset/9774">سوال</a></td>
     <td><a href="https://github.com/Mehr-code/Quera-js-answers/blob/main/SRC/9774.js">جواب</a></td>
   </tr>
+  <tr>
+    <td>282</td>
+    <td>کامل بودن یا نبودن</td>
+    <td><a href="https://quera.org/problemset/282">سوال</a></td>
+    <td><a href="https://github.com/Mehr-code/Quera-js-answers/blob/main/SRC/282.js">جواب</a></td>
+  </tr>
   
 </table>
