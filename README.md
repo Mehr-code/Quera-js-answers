@@ -76,5 +76,11 @@
     <td><a href="https://quera.org/problemset/282">سوال</a></td>
     <td><a href="https://github.com/Mehr-code/Quera-js-answers/blob/main/SRC/282.js">جواب</a></td>
   </tr>
+   <tr>
+    <td>616</td>
+    <td>توان دو</td>
+    <td><a href="https://quera.org/problemset/616">سوال</a></td>
+    <td><a href="https://github.com/Mehr-code/Quera-js-answers/blob/main/SRC/616.js">جواب</a></td>
+  </tr>
   
 </table>
