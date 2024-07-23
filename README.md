@@ -82,5 +82,11 @@
     <td><a href="https://quera.org/problemset/616">سوال</a></td>
     <td><a href="https://github.com/Mehr-code/Quera-js-answers/blob/main/SRC/616.js">جواب</a></td>
   </tr>
+  <tr>
+    <td>3405</td>
+    <td>چاپ برعکس</td>
+    <td><a href="https://quera.org/problemset/3405">سوال</a></td>
+    <td><a href="https://github.com/Mehr-code/Quera-js-answers/blob/main/SRC/3405.js">جواب</a></td>
+  </tr>
   
 </table>
