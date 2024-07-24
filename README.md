@@ -94,4 +94,10 @@
     <td><a href="https://quera.org/problemset/591">سوال</a></td>
     <td><a href="https://github.com/Mehr-code/Quera-js-answers/blob/main/SRC/591.js">جواب</a></td>
   </tr>
+  <tr>
+    <td>3414</td>
+    <td>دو نقطه خط</td>
+    <td><a href="https://quera.org/problemset/3414">سوال</a></td>
+    <td><a href="https://github.com/Mehr-code/Quera-js-answers/blob/main/SRC/3414.js">جواب</a></td>
+  </tr>
 </table>
