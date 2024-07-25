@@ -100,4 +100,10 @@
     <td><a href="https://quera.org/problemset/3414">سوال</a></td>
     <td><a href="https://github.com/Mehr-code/Quera-js-answers/blob/main/SRC/3414.js">جواب</a></td>
   </tr>
+  <tr>
+    <td>10325</td>
+    <td>همایش زندگی بهتر</td>
+    <td><a href="https://quera.org/problemset/10325">سوال</a></td>
+    <td><a href="https://github.com/Mehr-code/Quera-js-answers/blob/main/SRC/10325.js">جواب</a></td>
+  </tr>
 </table>
