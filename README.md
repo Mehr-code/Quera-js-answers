@@ -106,4 +106,10 @@
     <td><a href="https://quera.org/problemset/10325">سوال</a></td>
     <td><a href="https://github.com/Mehr-code/Quera-js-answers/blob/main/SRC/10325.js">جواب</a></td>
   </tr>
+  <tr>
+    <td>51865</td>
+    <td>بهداشت و سلامت</td>
+    <td><a href="https://quera.org/problemset/51865">سوال</a></td>
+    <td><a href="https://github.com/Mehr-code/Quera-js-answers/blob/main/SRC/51865.js">جواب</a></td>
+  </tr>
 </table>
