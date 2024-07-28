@@ -112,4 +112,10 @@
     <td><a href="https://quera.org/problemset/51865">سوال</a></td>
     <td><a href="https://github.com/Mehr-code/Quera-js-answers/blob/main/SRC/51865.js">جواب</a></td>
   </tr>
+  <tr>
+    <td>4065</td>
+    <td>!!خر در چمن فراوونه</td>
+    <td><a href="https://quera.org/problemset/4065">سوال</a></td>
+    <td><a href="https://github.com/Mehr-code/Quera-js-answers/blob/main/SRC/4065.js">جواب</a></td>
+  </tr>
 </table>
