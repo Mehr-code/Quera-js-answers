@@ -118,4 +118,10 @@
     <td><a href="https://quera.org/problemset/4065">سوال</a></td>
     <td><a href="https://github.com/Mehr-code/Quera-js-answers/blob/main/SRC/4065.js">جواب</a></td>
   </tr>
+  <tr>
+    <td>8838</td>
+    <td>کمک به کاپی</td>
+    <td><a href="https://quera.org/problemset/8838">سوال</a></td>
+    <td><a href="https://github.com/Mehr-code/Quera-js-answers/blob/main/SRC/8838.js">جواب</a></td>
+  </tr>
 </table>
