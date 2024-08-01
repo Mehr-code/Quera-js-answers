@@ -124,4 +124,10 @@
     <td><a href="https://quera.org/problemset/8838">سوال</a></td>
     <td><a href="https://github.com/Mehr-code/Quera-js-answers/blob/main/SRC/8838.js">جواب</a></td>
   </tr>
+  <tr>
+    <td>2636</td>
+    <td>شطرنج حرفه ای</td>
+    <td><a href="https://quera.org/problemset/2636">سوال</a></td>
+    <td><a href="https://github.com/Mehr-code/Quera-js-answers/blob/main/SRC/2636.js">جواب</a></td>
+  </tr>
 </table>
