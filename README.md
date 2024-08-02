@@ -130,4 +130,10 @@
     <td><a href="https://quera.org/problemset/2636">سوال</a></td>
     <td><a href="https://github.com/Mehr-code/Quera-js-answers/blob/main/SRC/2636.js">جواب</a></td>
   </tr>
+  <tr>
+    <td>588</td>
+    <td>ماکزیمم</td>
+    <td><a href="https://quera.org/problemset/588">سوال</a></td>
+    <td><a href="https://github.com/Mehr-code/Quera-js-answers/blob/main/SRC/588.js">جواب</a></td>
+  </tr>
 </table>
