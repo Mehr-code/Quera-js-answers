@@ -136,4 +136,10 @@
     <td><a href="https://quera.org/problemset/588">سوال</a></td>
     <td><a href="https://github.com/Mehr-code/Quera-js-answers/blob/main/SRC/588.js">جواب</a></td>
   </tr>
+  <tr>
+    <td>617</td>
+    <td>عدد خودمقلوب</td>
+    <td><a href="https://quera.org/problemset/617">سوال</a></td>
+    <td><a href="https://github.com/Mehr-code/Quera-js-answers/blob/main/SRC/617.js">جواب</a></td>
+  </tr>
 </table>
